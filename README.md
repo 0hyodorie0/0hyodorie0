@@ -2,7 +2,7 @@
 
 <a href="https://velog.io/@0hyodorie0">
     <img 
-        src="http://img.shields.io/badge/-velog-444444?style=flat&logo=Vector Logo Zone&link=https://velog.io/@0hyodorie0"
+        src="http://img.shields.io/badge/-Tech Blog-444444?style=flat&logo=Vector Logo Zone&link=https://velog.io/@0hyodorie0"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://www.instagram.com/hyodorie/">
