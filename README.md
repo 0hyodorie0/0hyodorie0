@@ -16,6 +16,7 @@
 🔭 I’m currently working on ... 
 - HTML5
 - CSS3
+- SCSS
 - jQuery
 - Java
 - JavaScript
